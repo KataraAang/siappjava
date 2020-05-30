@@ -10,7 +10,7 @@ public class SoftuerniInstrumenti {
 	@RequestMapping("/")
 	public @ResponseBody String softuerniTehnologiiMessage() {
 			
-		return "Privet, gospodin Malinov! :)";
+		return "Privet, gospodin Malinov! :):)";
 		
 	}
 
